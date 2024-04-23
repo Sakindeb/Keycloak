@@ -1,4 +1,4 @@
-let keycloakUrl = "http://192.168.56.10:8080/auth"
+let keycloakUrl = "http://34.129.104.133:8080/auth"
 
 var script = document.createElement('script');
 const xhttpr = new XMLHttpRequest();

@@ -1,6 +1,6 @@
 {
   "realm": "myrealm",
-  "auth-server-url": "http://192.168.56.10:8080/auth/",
+  "auth-server-url": "http://34.129.104.133:8080/auth/",
   "ssl-required": "external",
   "resource": "frontend",
   "public-client": true,
